@@ -51,9 +51,9 @@ header.startup h1 {
   vertical-align: middle;
 }
 
-/*.btn-xl {
+.btn-xl {
   padding: 1rem 2rem; 
-}*/
+}
 
 .btn-outline-info {
   background-color: #FF3F06;
